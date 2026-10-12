@@ -1,35 +1,212 @@
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%36a6c2&size=27&lines=H3110;I+AM+ECO;;Thank+You+Everyone+😉;Stay+Safe+Stay+Happy;)
-<div  align="center"><h1> 💫 About Me: </h1>
-<div  align="center">
+<!-- ═══════════════ PROFILE README ═══════════════ -->
+<!-- GitHub stats username: iamechobyte | Social identity: iamdeveco -->
 
+<div align="center">
 
-- 🥰WELCOME TO The EchoByte🥰
-  
--  🙂 MY Name Is :- ECO
- 
+  <!-- Animated Header -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=220&section=header&text=iamdeveco&fontSize=58&fontColor=E6FCFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Curious%20Mind&descAlignY=57&descSize=17"
+    width="100%"
+    alt="iamdeveco profile banner"
+  />
 
-- Lives In :- BANGLADESH 🇧🇩
+  <!-- Typing Animation -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Turning+ideas+into+useful+tools;Automation+%7C+AI+%7C+Cybersecurity;Always+learning%2C+always+building"
+    alt="Typing animation"
+  />
 
+  <br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=iamechobyte&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
 
 </div>
 
+---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iamtarun.com.1/) 
+## 💫 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=plastic&logo=gitpod&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamechobyte&theme=dark&hide_border=false)<br/>
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=iamechobyte&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://github-readme-activity-graph.vercel.app/graph?username=iamechobyte&bg_color=0000000&color=000000&line=fca235&point=FB8C00&area_color=f9bd72&area=true&hide_border=true))
+```python
+class Developer:
+    def __init__(self):
+        self.username = "iamdeveco"
+        self.role = "Developer"
+        self.interests = [
+            "Programming",
+            "Automation",
+            "Artificial Intelligence",
+            "Cybersecurity"
+        ]
+        self.mindset = "Learn, Build, Improve"
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    def say_hi(self):
+        print("Just a simple developer...")
+        print("Just kidding, guys :D")
+
+me = Developer()
+me.say_hi()
+```
+
+- 💻 I enjoy turning ideas into useful tools and applications.
+- 🧠 Exploring AI, automation, cybersecurity, and new technologies.
+- ⚡ I like experimenting, solving problems, and learning by building.
+- 🎯 Always looking for better ways to write code and improve projects.
+
+> *"Building things that once existed only in my imagination."*
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamechobyte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/iamechobyte">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://facebook.com/iamdeveco">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/iamdeveco">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/iamdeveco">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tiktok.com/@hey.itz.eco">
+    <img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://x.com/iamdeveco">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:iamdeveco@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  <h3>Languages & Development</h3>
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js&theme=dark" alt="Languages and development skills"/>
+
+  <br/><br/>
+
+  <h3>Tools & Platforms</h3>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,apache&theme=dark" alt="Tools and platforms"/>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api?username=iamechobyte&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=C9D1D9"
+    alt="GitHub statistics"
+  />
+
+  <img
+    height="175"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamechobyte&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
+    alt="Most used programming languages"
+  />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=iamechobyte&hide_border=true&background=0D1117&stroke=0E7490&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=E6FCFF&sideNums=E6FCFF&dates=94A3B8"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=iamechobyte&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
+    alt="GitHub trophies"
+  />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iamechobyte&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=34D399&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
+  />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animated GitHub contribution snake"
+      src="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### ⚡ Thanks for visiting my profile!
+
+  **Code. Create. Experiment. Repeat.**
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:0D1117&height=110&section=footer"
+    width="100%"
+    alt="Profile footer"
+  />
+
 </div>
