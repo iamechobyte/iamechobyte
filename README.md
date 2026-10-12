@@ -1,212 +1,154 @@
-
-<!-- ═══════════════ PROFILE README ═══════════════ -->
-<!-- GitHub stats username: iamechobyte | Social identity: iamdeveco -->
-
-<div align="center">
-
-  <!-- Animated Header -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=220&section=header&text=iamdeveco&fontSize=58&fontColor=E6FCFF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Curious%20Mind&descAlignY=57&descSize=17"
-    width="100%"
-    alt="iamdeveco profile banner"
-  />
-
-  <!-- Typing Animation -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Code.+Build.+Repeat.;Turning+ideas+into+useful+tools;Automation+%7C+AI+%7C+Cybersecurity;Always+learning%2C+always+building"
-    alt="Typing animation"
-  />
-
-  <br/>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=iamechobyte&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
-
-</div>
-
----
-
-## 💫 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.username = "iamdeveco"
-        self.role = "Developer"
-        self.interests = [
-            "Programming",
-            "Automation",
-            "Artificial Intelligence",
-            "Cybersecurity"
-        ]
-        self.mindset = "Learn, Build, Improve"
-
-    def say_hi(self):
-        print("Just a simple developer...")
-        print("Just kidding, guys :D")
-
-me = Developer()
-me.say_hi()
-```
-
-- 💻 I enjoy turning ideas into useful tools and applications.
-- 🧠 Exploring AI, automation, cybersecurity, and new technologies.
-- ⚡ I like experimenting, solving problems, and learning by building.
-- 🎯 Always looking for better ways to write code and improve projects.
-
-> *"Building things that once existed only in my imagination."*
-
----
-
-## 🌐 Connect With Me
+````html
+<!-- iamdeveco | COSMIC PROFILE -->
 
 <div align="center">
 
-  <a href="https://github.com/iamechobyte">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://facebook.com/iamdeveco">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/iamdeveco">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/iamdeveco">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tiktok.com/@hey.itz.eco">
-    <img src="https://img.shields.io/badge/TikTok-0D1117?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://x.com/iamdeveco">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="mailto:iamdeveco@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:0EA5E9&height=230&section=header&text=iamdeveco&fontSize=65&fontColor=E0F2FF&animation=twinkling&fontAlignY=38&desc=Lost%20in%20code%2C%20found%20in%20the%20cosmos&descAlignY=62&descSize=17" width="100%" alt="Cosmic Banner"/>
 
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-  <h3>Languages & Development</h3>
-
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js&theme=dark" alt="Languages and development skills"/>
-
-  <br/><br/>
-
-  <h3>Tools & Platforms</h3>
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,apache&theme=dark" alt="Tools and platforms"/>
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api?username=iamechobyte&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=22D3EE&icon_color=34D399&text_color=C9D1D9"
-    alt="GitHub statistics"
-  />
-
-  <img
-    height="175"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamechobyte&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"
-    alt="Most used programming languages"
-  />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=%5B+INITIALIZING+ORBIT+%5D;%5B+SCANNING+THE+COSMOS+%5D;Code+%E2%80%A2+Create+%E2%80%A2+Explore" alt="Typing Animation"/>
 
 <br/>
 
-<div align="center">
-
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com/?user=iamechobyte&hide_border=true&background=0D1117&stroke=0E7490&ring=22D3EE&fire=34D399&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=E6FCFF&sideNums=E6FCFF&dates=94A3B8"
-    alt="GitHub contribution streak"
-  />
+<img src="https://komarev.com/ghpvc/?username=iamechobyte&style=for-the-badge&color=1E3A8A&label=EARTH+VISITORS" alt="Visitors"/>
+<img src="https://img.shields.io/github/followers/iamechobyte?style=for-the-badge&color=0EA5E9&labelColor=0B1220&logo=github&label=ORBITERS" alt="Followers"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌍 `> ground_control.log`
+
+```yaml
+mission:
+  codename: "iamdeveco"
+  base: "Planet Earth 🌏"
+  sector: "Software Engineering"
+  launch: "Somewhere between bug and feature"
+
+directives:
+  - "Build tools that help humans"
+  - "Explore AI, automation & cybersecurity"
+  - "Ship experiments into the wild"
+  - "Never stop exploring new ideas"
+
+status: "ONLINE"
+signal: "Strong. Coffee reserves: low."
+````
+
+## 🛸 `> alien_transmission.py`
+
+```python
+class Earthling:
+    def __init__(self):
+        self.name = "iamdeveco"
+        self.stack = ["Python", "C++", "C#", "JavaScript"]
+        self.mood = "building @ 3AM"
+
+    def mission(self):
+        return "code → chaos → clarity"
+
+
+me = Earthling()
+print(me.mission())
+```
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=38BDF8&center=true&vCenter=true&width=400&lines=Just+a+simple+developer...;Just+kidding%2C+guys+%3AD" alt="Developer Joke"/>
+</div>
+
+---
+
+## 🌐 `> deep_space_network --connect`
 
 <div align="center">
 
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=iamechobyte&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
-    alt="GitHub trophies"
-  />
+<a href="https://github.com/iamechobyte"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=7DD3FC" alt="GitHub"/></a> <a href="https://linkedin.com/in/iamdeveco"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a> <a href="https://x.com/iamdeveco"><img src="https://img.shields.io/badge/X-0B1220?style=for-the-badge&logo=x&logoColor=E0F2FF" alt="X"/></a> <a href="https://facebook.com/iamdeveco"><img src="https://img.shields.io/badge/FACEBOOK-0B1220?style=for-the-badge&logo=facebook&logoColor=60A5FA" alt="Facebook"/></a> <a href="https://instagram.com/iamdeveco"><img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=F472B6" alt="Instagram"/></a> <a href="https://tiktok.com/@hey.itz.eco"><img src="https://img.shields.io/badge/TIKTOK-0B1220?style=for-the-badge&logo=tiktok&logoColor=E0F2FF" alt="TikTok"/></a> <a href="mailto:iamdeveco@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email"/></a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 🛰️ `> scanning_tech_constellation`
 
 <div align="center">
 
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=iamechobyte&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=34D399&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
+**◦ Primary Systems ◦**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js&theme=dark&perline=6" alt="Programming Languages"/>
+
+<br/><br/>
+
+**◦ Orbital Instruments ◦**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,apache&theme=dark&perline=6" alt="Developer Tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/JWT-0B1220?style=for-the-badge&logo=jsonwebtokens&logoColor=7DD3FC" alt="JWT"/>
+<img src="https://img.shields.io/badge/APACHE-0B1220?style=for-the-badge&logo=apache&logoColor=EF4444" alt="Apache"/>
+<img src="https://img.shields.io/badge/AI-0B1220?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="AI"/>
+<img src="https://img.shields.io/badge/SECURITY-0B1220?style=for-the-badge&logo=hackthebox&logoColor=22C55E" alt="Security"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📡 `> receiving_telemetry_from_earth`
 
 <div align="center">
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="Animated GitHub contribution snake"
-      src="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
+<a href="https://github.com/iamechobyte">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iamechobyte&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0B1220&title_color=7DD3FC&icon_color=38BDF8&text_color=CBD5E1&border_radius=16" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/iamechobyte">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamechobyte&layout=compact&hide_border=true&langs_count=8&bg_color=0B1220&title_color=7DD3FC&text_color=CBD5E1&border_radius=16" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com/?user=iamechobyte&hide_border=true&background=0B1220&stroke=1E3A8A&ring=7DD3FC&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=E0F2FF&sideNums=E0F2FF&dates=64748B&border_radius=16" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+## 🏆 `> achievements_unlocked`
+
 <div align="center">
 
-  ### ⚡ Thanks for visiting my profile!
-
-  **Code. Create. Experiment. Repeat.**
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0E7490,100:0D1117&height=110&section=footer"
-    width="100%"
-    alt="Profile footer"
-  />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=iamechobyte&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
+
+---
+
+## 📈 `> orbit_trajectory`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamechobyte&bg_color=0B1220&color=CBD5E1&line=7DD3FC&point=38BDF8&area=true&hide_border=true&radius=16" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🐍 `> space_serpent_detected`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/iamechobyte/iamechobyte/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&pause=1500&color=7DD3FC&center=true&vCenter=true&width=500&lines=End+of+transmission;Thanks+for+orbiting+by;See+you+in+the+next+commit" alt="Outro Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1E3A8A,100:0EA5E9&height=130&section=footer&text=%E2%9C%A6%20%E2%98%85%20%E2%9C%A6&fontSize=28&fontColor=E0F2FF&animation=twinkling" width="100%" alt="Cosmic Footer"/>
+
+</div>
+```
